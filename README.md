@@ -26,11 +26,11 @@ The script organizes files as follows:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kuanding/marc-file-processor.git
+   git clone https://github.com/kuanding/Marc2Text2024.git
    ```
 2. Navigate to the directory:
    ```bash
-   cd marc-file-processor
+   cd Marc2Text2024
    ```
 3. Install dependencies:
    ```bash
@@ -42,7 +42,7 @@ The script organizes files as follows:
 1. Place the MARC files (`.mrc` or `.marc`) in the script's directory.
 2. Run the script:
    ```bash
-   python marc_processor.py
+   python Marc2Text2024.py
    ```
 3. Check the `output/`, `processed/`, and `failed/` directories for results.
 
